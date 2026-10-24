@@ -1,5 +1,4 @@
 # Bio
-Brief CV (Dr. Walter F. de Azevedo, Jr.
 <h2>Prof. Dr. Walter F. de Azevedo, Jr.</h2>
 <a href="https://scholar.google.com/citations?user=HWwJXJUAAAAJ" title = "Link to Google Scholar">
 <img src="https://drive.usercontent.google.com/download?id=1rL_DWbMj6timTlYlhn9Hwm1acq8AU4QV&export=view&authuser=0" height=24 alt="Link to Google Scholar"></a>  
